@@ -4,7 +4,7 @@ var con2;
 
 // operators :--
 
-function load(){
+const load = ()=>{
     document.getElementById("loader").style.display="none";
 }
 
